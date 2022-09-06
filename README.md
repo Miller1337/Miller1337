@@ -7,6 +7,8 @@
     поэтому в их исполльзуются друге языки и технологии. 
 ---
 ## Мои репозитории:
+Это простая [ссылка](http://rukeba.com/) в тексте.
+Это [ссылка](http://rukeba.com/ "Титул") с аттрибутом title.
 
 <!--
 **Miller1337/Miller1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
