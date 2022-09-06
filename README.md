@@ -6,7 +6,7 @@
 ## Мои репозитории
    1. [Прототип](https://github.com/Miller1337/AR-Prototype/) AR игры на Unity под Android. Сделанный при помощи AR Foundation.
    2. [Тренировочный REST API](https://github.com/Miller1337/REST-API/) Разработан при помощи OpenServerPanel. На языке PHP и сервисов MYSQL.
-   3. [Курсовой Проект](https://github.com/Miller1337/KP_BD/)По базам данных. Приложение разработано в VisualStudio при помощи WindowsForm и сервисов MySQL.
+   3. [Курсовой Проект](https://github.com/Miller1337/KP_BD/) По базам данных. Приложение разработано в VisualStudio при помощи WindowsForm и сервисов MySQL.
 <!--
 **Miller1337/Miller1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
